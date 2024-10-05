@@ -13,5 +13,5 @@ How do I connect to Azure from PowerShell?
 <summary>
 What are the Azure PowerShell and CLI commands to create a security group called IT Admins? Provide the official command reference page.
 </summary>
-New-AzGroup -Name "IT Admins" -Location "East US"
+New-AzADGroup -DisplayName "IT Admins" -MailNickname $false
 </details>
