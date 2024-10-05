@@ -12,3 +12,13 @@ What are the Azure PowerShell and CLI commands to create a security group called
 ```bash
 New-AzGroup -Name "IT Admins" -Location "East US"
 ```
+
+
+
+<details>
+<summary>Heading</summary>
+    + markdown list 1
+        + nested list 1
+        + nested list 2
+    + markdown list 2
+</details>
