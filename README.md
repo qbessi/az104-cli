@@ -9,16 +9,13 @@ Connect-AzAccount
 
 What are the Azure PowerShell and CLI commands to create a security group called IT Admins? Provide the official command reference page.
 
-```bash
-New-AzGroup -Name "IT Admins" -Location "East US"
-```
+
 
 
 
 <details>
 <summary>Heading</summary>
-    + markdown list 1
-        + nested list 1
-        + nested list 2
-    + markdown list 2
+    ```bash
+New-AzGroup -Name "IT Admins" -Location "East US"
+```
 </details>
