@@ -1,21 +1,17 @@
 # AZ104 CLI Command Dump
 A PowerShell and CLI command dump used for the AZ-104 exam.
 
+<details>
+<summary>
 How do I connect to Azure from PowerShell?
-
-```bash
-Connect-AzAccount
-```
-
-What are the Azure PowerShell and CLI commands to create a security group called IT Admins? Provide the official command reference page.
-
-
-
+</summary>
+    Connect-AzAccount
+</details>
 
 
 <details>
-<summary>Heading</summary>
-    ```bash
+<summary>
+What are the Azure PowerShell and CLI commands to create a security group called IT Admins? Provide the official command reference page.
+</summary>
 New-AzGroup -Name "IT Admins" -Location "East US"
-```
 </details>
