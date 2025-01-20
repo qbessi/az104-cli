@@ -1,4 +1,4 @@
-# AZ104 PowerSHell Command Dump
+# AZ104 PowerShell Command Dump
 A PowerShell command dump used for the AZ-104 exam.
 
 ## Azure PowerShell Commands
